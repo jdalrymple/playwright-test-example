@@ -1,0 +1,10 @@
+{
+  "name": "test2",
+  "packageManager": "yarn@3.4.1",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
